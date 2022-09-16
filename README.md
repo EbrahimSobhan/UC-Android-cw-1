@@ -22,6 +22,24 @@ Hi, My name is Mohammed and I am 17 years old
 
 # تمرين 2💪
 
+{
+String name = "Ahmad";
+int age = 12;
+
+
+    { System.out.println("Hi,my name is" + name + "and I'm" + age + "years old");
+    }
+
+        int hight = 170;
+
+        if(hight >=170);
+        {
+            System.out.println("you can pass");
+        }
+       else {
+        System.out.println("you can't pass");
+    }
+
 
 ## تمرين قطار الموت 
 
